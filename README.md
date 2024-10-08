@@ -11,7 +11,6 @@ A web-based system designed to simulate the legislative process in the **Federal
 - [User Roles & Permissions](#user-roles--permissions)
 - [System Workflow](#system-workflow)
 - [UML Diagrams](#uml-diagrams)
-- [Group Members](#group-members)
 - [Contribution Summary](#contribution-summary)
 
 ---
